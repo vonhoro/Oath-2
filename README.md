@@ -25,11 +25,15 @@ In Server/server.js
 
 
 Modify this vatiables for the correct ones
-const mongoDataBase = process.env.MONGO_URI;
-const googleClient = process.env.GOOGLE_CLIENT;
-const googleSecret = process.env.GOOGLE_SECRET;
-const googleCallBack = process.env.GOOGLE_CALLBACK;
 
+
+const mongoDataBase = process.env.MONGO_URI;
+
+const googleClient = process.env.GOOGLE_CLIENT;
+
+const googleSecret = process.env.GOOGLE_SECRET;
+
+const googleCallBack = process.env.GOOGLE_CALLBACK;
 
 You will need to run a redis-server for the cookies
 
