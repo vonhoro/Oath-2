@@ -1,12 +1,21 @@
 This a project with front end made with nextjs.
+
 To run 
+
 clone the repository
+
 Install dependecies
 
 
+
 npm i
+
+
 cd Server
+
+
 npm i
+
 
 
 
@@ -38,7 +47,12 @@ const googleCallBack = process.env.GOOGLE_CALLBACK;
 You will need to run a redis-server for the cookies
 
 Run with 
+
+
 npm run dev
+
 and
 cd Server
+
+
 node server.js
