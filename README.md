@@ -12,7 +12,9 @@ npm i
 
 
 in Components/GoogleLogin/js
+
 Change googleAuth for your endpoint on your server
+
 example: localhost:8000/google/auth
 
 
